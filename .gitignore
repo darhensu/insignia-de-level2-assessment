@@ -1,0 +1,23 @@
+# draw.io temporary backup
+*.$*.bkp
+
+# spark temporary / metadata files
+*.crc
+_SUCCESS
+
+# python cache
+__pycache__/
+*.pyc
+
+# local environment
+.env
+.venv/
+venv/
+
+# ide
+.vscode/
+.idea/
+
+# os
+.DS_Store
+Thumbs.db
